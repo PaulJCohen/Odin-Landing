@@ -27,12 +27,6 @@ padding-top: 50px;
 padding-bottom: 40px;
 }
 
-.image-holder {
-padding-left: 450px;
-height: 60px;
-
-}
-
 p {
 border: solid;
 width: 300px;
@@ -72,12 +66,24 @@ gap: 12px;
 
 .image-holder {
 border: solid grey;
+background-color: rgb(179, 21, 21);
+width: 400px;
+text-align: center;
+height: 200px;
+justify-content: center;
+display: flex;
+align-items: center;
+
 
 }
 
 button {
     color: white;
 background: blue;
+}
+
+.container1 {
+display: flex;
 
 
 }
