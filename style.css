@@ -77,9 +77,16 @@ gap: 150px;
 border:solid blue 1px;
 }
 
-.container > div {
+.container .image{
     border: solid  blue 1px;
     height: 100px;
-    width: 100px;
+    width: 100px; 
     }
-    
+
+.container {
+display: flex;
+justify-content: center;
+gap: 25px;
+}
+
+
