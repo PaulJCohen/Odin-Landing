@@ -1,10 +1,10 @@
 .header  {
 height: 300px;
-background-color: rgb(40, 40, 40);
+background-color: rgb(200, 19, 149);
 color: white;
 padding-left: 50px;
 padding-top: 10px;
-border: 1px solid wheat;
+border: 1px solid rgb(233, 14, 175);
 }
 
 .links {
@@ -48,8 +48,8 @@ gap: 12px;
 
 
 .image-holder {
-border: solid grey;
-background-color: rgb(179, 21, 21);
+border: solid rgb(235, 8, 133);
+background-color: rgb(144, 8, 255);
 width: 400px;
 text-align: center;
 height: 200px;
@@ -62,7 +62,7 @@ align-items: center;
 
 button {
     color: white;
-background: blue;
+background: rgb(171, 19, 241);
 }
 
 .container1 {
@@ -78,7 +78,7 @@ border:solid blue 1px;
 }
 
 .container .image{
-    border: solid  blue 1px;
+    border: solid  rgb(227, 8, 154) 1px;
     height: 100px;
     width: 100px; 
     }
@@ -88,6 +88,86 @@ display: flex;
 justify-content: center;
 padding-top: 20px;
 padding-left: 50px;
+padding-bottom: 40px;
 }
 
+.lol {
+border: solid rgb(179, 19, 228);
+height: 200px;
+width: 85%;
+background: rgb(197, 22, 206);
+}
+
+.lol {
+justify-content: center;
+display: flex;
+align-items: center;
+padding-left: 120px;
+
+}
+
+
+.pill  {
+padding-top: 130px;
+font-weight: bold;
+
+}
+
+.its-time {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding-top: 50px;
+background: rgb(217, 14, 207);
+margin-top: 50px;
+}
+.middel {
+border: solid rgb(122, 0, 0) 1px;
+width: 500px;
+display: flex;
+
+padding-left: 290px;
+padding-top: 20px;
+padding-bottom: 20px;
+
+}
+
+.button {
+display: flex;
+justify-content: end;
+padding-right: 60px;
+align-items: center;
+padding-left: 80px;
+}
+
+.h4-90 {
+border: solid pink 1px;
+margin-top: 20px;
+
+}
+
+
+.ozuna {
+display: flex;
+border: solid pink 1px;
+width: 400px;
+}
+
+.footer {
+border: solid purple 1px;
+color: white;
+background: lightpink;
+}
+
+
+.footer {
+justify-content: center;
+align-items: center;
+display: flex;
+text-align: center;
+height: 80px;
+margin-top: 50px;
+
+}
 
